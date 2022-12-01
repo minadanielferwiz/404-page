@@ -1,0 +1,52 @@
+div img {
+    width: 684px;
+    height: 483px;
+    position: absolute;
+    top: 154px;
+    display: inline-block;
+    left: 39px
+}
+
+.head {
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    position: absolute;
+    left: 39px;
+    top: 20px;
+}
+
+.text {
+    font-size: 25px;
+    position: absolute;
+    left: 860px;
+    top: 100px;
+}
+.head-text {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 75px;
+    font-weight: bold;
+    color: rgba(13, 40, 27, 0.889);
+    word-spacing: 20px;
+}
+
+.bottom-text {
+    word-spacing: 8px;
+    color: rgba(18, 94, 65, 0.915);
+    position: relative;
+    bottom:25px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+.button {
+    background-color: rgb(71, 56, 56);
+    color: #eee;
+    width: 230px;
+    height: 60px;
+    font-size: 15px;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 10px;
+    word-spacing: 5px;
+
+}
